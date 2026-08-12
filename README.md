@@ -60,6 +60,7 @@ Below is the structured showcase of all 11 professional certificates issued by *
 | **Cisco Data Science** | Cisco | ![Cisco Data Science](cisco-data-science.jpg) |
 | **MS Copilot Mini Game** | Microsoft | ![MS Copilot Mini Game](ms-copilot-mini%20game.jpg) |
 | **MS Minecraft Python** | Microsoft | ![MS Minecraft Python](ms-minecraft-python.jpg) |
+
 | **Coding Night Hackathon** | Hackathon | ![Coding Night Hackathon](coding-night-hackathon.jpg) |
 
 ---
