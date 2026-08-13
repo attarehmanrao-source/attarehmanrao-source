@@ -84,9 +84,9 @@ All certificates issued by **Cisco, Microsoft, and Simplilearn SkillUp**. Click 
 | Certification | Issuer | Certificate |
 | :--- | :--- | :---: |
 | Cisco Data Science | Cisco | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="32"/>](cisco-data-science.jpg) |
-| MS Copilot Mini Game | Microsoft | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubcopilot/githubcopilot-original.svg" width="32"/>](ms-copilot-minigame.jpg) |
+| MS Copilot Mini Game | Microsoft | [<img src="https://cdn.simpleicons.org/githubcopilot" width="32"/>](ms-copilot-minigame.jpg) |
 | MS Minecraft Python | Microsoft | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="32"/>](ms-minecraft-python.jpg) |
-| Coding Night Hackathon | Hackathon | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="32"/>](coding-night-hackathon.jpg) |
+| Coding Night Hackathon | Hackathon | [<img src="https://cdn.simpleicons.org/hackthebox/9FEF00" width="32"/>](coding-night-hackathon.jpg) |
 
 ---
 
