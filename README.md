@@ -57,36 +57,36 @@
 
 ## 🏆 My Verified Certifications (11)
 ### 🎓 A journey of continuous learning in AI, Data Science & Software Engineering
-All certificates issued by **Cisco, Microsoft, and Simplilearn SkillUp**. Click the badge to view the full certificate.
+All certificates issued by **Cisco, Microsoft, and Simplilearn SkillUp**. Click the icon to view the full certificate.
 
 ---
 
 ### 🤖 Artificial Intelligence & Machine Learning
 | Certification | Issuer | Certificate |
 | :--- | :--- | :---: |
-| Introduction to Artificial Intelligence | Simplilearn SkillUp | [![View](https://img.shields.io/badge/View-Certificate-e2231a?style=for-the-badge)](intro_to_ai.jpg) |
-| Artificial Intelligence Beginners Guide | Simplilearn SkillUp | [![View](https://img.shields.io/badge/View-Certificate-e2231a?style=for-the-badge)](ai_beginners_guide.jpg) |
-| Cisco Modern AI | Cisco | [![View](https://img.shields.io/badge/View-Certificate-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](cisco-modern-ai.jpg) |
+| Introduction to Artificial Intelligence | Simplilearn SkillUp | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="32"/>](intro_to_ai.jpg) |
+| Artificial Intelligence Beginners Guide | Simplilearn SkillUp | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="32"/>](ai_beginners_guide.jpg) |
+| Cisco Modern AI | Cisco | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="32"/>](cisco-modern-ai.jpg) |
 
 ---
 
 ### 🐍 Python Programming & Development
 | Certification | Issuer | Certificate |
 | :--- | :--- | :---: |
-| Python for Beginners | Simplilearn SkillUp | [![View](https://img.shields.io/badge/View-Certificate-e2231a?style=for-the-badge)](python_for_beginners.jpg) |
-| Cisco Python Essentials 1 | Cisco | [![View](https://img.shields.io/badge/View-Certificate-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](cisco-python-essentials-1.jpg) |
-| Cisco Python Essentials 2 | Cisco | [![View](https://img.shields.io/badge/View-Certificate-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](cisco-python-essentials-2.jpg) |
-| MS Pytest Framework | Microsoft | [![View](https://img.shields.io/badge/View-Certificate-00A4EF?style=for-the-badge&logo=microsoft&logoColor=white)](ms-pytest.jpg) |
+| Python for Beginners | Simplilearn SkillUp | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="32"/>](python_for_beginners.jpg) |
+| Cisco Python Essentials 1 | Cisco | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="32"/>](cisco-python-essentials-1.jpg) |
+| Cisco Python Essentials 2 | Cisco | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="32"/>](cisco-python-essentials-2.jpg) |
+| MS Pytest Framework | Microsoft | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytest/pytest-original.svg" width="32"/>](ms-pytest.jpg) |
 
 ---
 
 ### 📊 Data Science, Applied Projects & Hackathons
 | Certification | Issuer | Certificate |
 | :--- | :--- | :---: |
-| Cisco Data Science | Cisco | [![View](https://img.shields.io/badge/View-Certificate-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](cisco-data-science.jpg) |
-| MS Copilot Mini Game | Microsoft | [![View](https://img.shields.io/badge/View-Certificate-00A4EF?style=for-the-badge&logo=microsoft&logoColor=white)](ms-copilot-minigame.jpg) |
-| MS Minecraft Python | Microsoft | [![View](https://img.shields.io/badge/View-Certificate-00A4EF?style=for-the-badge&logo=microsoft&logoColor=white)](ms-minecraft-python.jpg) |
-| Coding Night Hackathon | Hackathon | [![View](https://img.shields.io/badge/View-Certificate-6E40C9?style=for-the-badge)](coding-night-hackathon.jpg) |
+| Cisco Data Science | Cisco | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="32"/>](cisco-data-science.jpg) |
+| MS Copilot Mini Game | Microsoft | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubcopilot/githubcopilot-original.svg" width="32"/>](ms-copilot-minigame.jpg) |
+| MS Minecraft Python | Microsoft | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="32"/>](ms-minecraft-python.jpg) |
+| Coding Night Hackathon | Hackathon | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="32"/>](coding-night-hackathon.jpg) |
 
 ---
 
